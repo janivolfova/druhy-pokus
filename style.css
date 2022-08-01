@@ -1,6 +1,7 @@
 body {
     background-color: yellow;
-    color: hot;
+    color: blue;
 }
-h1 {font-size: 64px;
+h1 {
+    font-size: 64px;
 }
